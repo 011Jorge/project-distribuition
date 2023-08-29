@@ -1,7 +1,9 @@
+import Login from "./containers/Login";
+
 function Home() {
   return (
     <div>
-      <h1>I am Home</h1>
+      <Login />
     </div>
   );
 }
