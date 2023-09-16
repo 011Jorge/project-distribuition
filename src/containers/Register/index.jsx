@@ -34,7 +34,7 @@ function Register() {
               <GiPadlock style={{ marginRight: 10 }} />
               Senha
             </label>
-            <input type="password" placeholder="Digite sua senha..." />
+            <input type="password" placeholder="Crie sua senha..." />
 
             <button style={{ marginTop: 75, marginBottom: 25 }}>
               Cadastrar <FaArrowRight style={{ margin: 10 }} />

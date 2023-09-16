@@ -1,12 +1,5 @@
-import Login from "./containers/Login";
-import Register from "./containers/Register";
-
-function Home() {
-  return (
-    <div>
-      <Register />
-    </div>
-  );
+function App() {
+  return <h1>I am app</h1>;
 }
 
-export default Home;
+export default App;
