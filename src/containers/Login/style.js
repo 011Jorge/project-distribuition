@@ -14,7 +14,7 @@ export const ContainerLogin = styled.div`
 
 export const ContainerForm = styled.div`
   width: 1500px;
-  height: 800px;
+  height: 700px;
 
   display: flex;
 
@@ -29,7 +29,7 @@ export const ContainerImageForm = styled.div`
 
   img {
     width: 700px;
-    height: 800px;
+    height: auto;
 
     border-radius: 30px 0 0 30px;
   }

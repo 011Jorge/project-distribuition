@@ -8,7 +8,7 @@ import {
   ContainerInfoForm,
 } from "./style";
 
-import Image from "../../assets/imgLogin.jpg";
+import Image from "../../assets/image001.jpg";
 
 function Login() {
   return (
