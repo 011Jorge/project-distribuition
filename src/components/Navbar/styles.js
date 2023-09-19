@@ -8,7 +8,7 @@ export const ContainerNavbar = styled.div`
 
   padding-bottom: 20px;
 
-  background-color: purple;
+  background-color: #8b4869;
 `;
 
 export const NavbarLinks = styled.div`
@@ -48,7 +48,7 @@ export const NavbarLinks = styled.div`
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: #89c43a;
+    background-color: #ffcbdb;
     visibility: hidden;
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
